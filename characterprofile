@@ -1,0 +1,614 @@
+      <!------------- 
+      This code uses an open-source template by @eggy on Toyhou.se. All further edits were made by Felix R (fruitosphere) on Github.  
+      ------------------------------------------->
+      
+<div class="container card px-3 py-4 bg-faded rounded mt-4 mb-5 h-200 border-0 " style="background: url('https://i.pinimg.com/originals/ad/37/a2/ad37a2cd24a91aadf24eba93fc03b927.png'); top: 15px; background-position: -15px; background-size: cover; ">
+ 
+   <div class="row">
+      <div class="col-lg-4 mb-md-0 mb-3">
+       
+        <!------------- LEFT CONTENT BLOCK ------------------------------------------->
+         <div class="card pt-3 px-4 pb-md-0 pb-3 h-100 d-block rounded-3 border-0 text-white" style="font-size: 10.5pt;  border-radius: 15px; background: #1C141D; ">
+            
+            <!---------------------- USE A 200 x 200 AVATAR ------------------------------------------------->
+            <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/14521852?1643332544" style="max-height: 225px; border-color: transparent;" 
+            class="d-block mx-auto mb-2 rounded-circle border-0">
+            <h1 class="text-center text-uppercase  display-4 mb-2">NAME LASTNAME <i class="fa-regular fa-fire"></i></h1><br/>
+            
+           
+
+            <!---------------- CHARACTER INFO ------------------------------>
+        
+             <small class="text-uppercase font-weight-bold" style="letter-spacing: 1px;">Nickname</small>
+                     <span class="pull-right">content</span>
+                     
+                       <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;" >
+             <small class="text-uppercase font-weight-bold" style="letter-spacing: 1px;">Gender</small>
+                     <span class="pull-right">content</span>
+                     
+                     <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+                     <small class="text-uppercase font-weight-bold" style="letter-spacing: 1px;">Age</small>
+                     <span class="pull-right">content</span>
+                     
+                      <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+                      <small class="text-uppercase font-weight-bold" style="letter-spacing: 1px;">Height</small>
+                     <span class="pull-right">content</span>
+                    
+                     
+                     <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+           <small class="text-uppercase font-weight-bold" style="letter-spacing: 1px;">Sexuality</small>
+                     <span class="pull-right">content</span>
+                     
+                     <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+                      <small class="text-uppercase font-weight-bold" style="letter-spacing: 1px;">Nationality</small>
+                     <span class="pull-right">content</span>
+                    
+                    <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+                      <small class="text-uppercase font-weight-bold" style="letter-spacing: 1px;">Occupation</small>
+                     <span class="pull-right">content</span>
+                     
+                      <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+                      <small class="text-uppercase font-weight-bold" style="letter-spacing: 1px;">Alias</small>
+                     <span class="pull-right">content</span>
+              
+                    
+                     <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+                      <small class="text-uppercase font-weight-bold" style="letter-spacing: 1px;">Partner</small>
+                     <span class="pull-right"><a style="color: #04CAC1;" href="https://toyhou.se/16125772.saint">Name</a></span>
+                     
+                     <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+                     
+                    <br>
+        </div>
+                     
+      </div>
+ 
+      <div class="col-lg-8">
+        
+        <div class="card-header p-0 border-0" style="margin-bottom: -6px;  "> 
+         <ul class="nav nav-tabs justify-content-center" style="border-bottom: 0px; letter-spacing: 1px; flex-wrap: wrap; display:flex; "> 
+         
+         <li class="nav-item col col-xs-2  p-1 " ><a class="nav-link active  btn btn-default rounded-2 border-0 "  data-toggle="tab" href="#ONE">
+            basics  <i class="fas fa-address-card"></i> </a></li>
+            
+             <li class="nav-item col col-xs-2  p-1" ><a class="nav-link  btn btn-default rounded-2 border-0 "  data-toggle="tab" href="#TWO">
+            about <i class="fa-solid fa-magnifying-glass"></i></a></li>
+            
+            <li class="nav-item col col-xs-2  p-1 " ><a class="nav-link  btn btn-default rounded-2 border-0 "   data-toggle="tab" href="#FOUR">
+            relationships <i class="fas fa-heart-square"></a></li>
+            
+              <li class="nav-item col col-xs-2  p-1 " ><a class="nav-link  btn btn-default rounded-2 border-0 "   data-toggle="tab" href="#FIVE">
+            story <i class="fa-duotone fa-book-sparkles"></i></a></li>
+            
+             <li class="nav-item col col-xs-2 p-1 " ><a class="nav-link  btn btn-default rounded-2 border-0 "   data-toggle="tab" href="#THREE">
+            inventory <i class="fas fa-tshirt"></i></a></li>
+            
+            
+         
+         </ul>
+         </div>
+         <div class="card tab-content  border-0 text-white" style="border-radius: 15px; background: #1C141D; ">
+           
+           
+           
+           <!---------------------- SECTION ONE - BASICS ------------------------------------------------->
+           <div class="tab-pane card-block active" style="height:630px; padding-bottom:8px; overflow:auto;" id="ONE">
+             
+           <p class="font-weight-bold text-center pt-3 pb-3 d-block  bg-dark mb-3 " style="letter-spacing: 1px; line-spacing: 3px;  border-radius: 10px; background: #000000;" >
+             
+              <i class="fa-solid fa-gear"></i> ADJ / ADJ / ADJ <i class="fa-solid fa-gear"></i>
+             <br/><span class="font-weight-normal "> <i>> Quote goes here <</i> </span>
+             </p>
+                     <div class="row justify-content-around">
+                  <div class="col-sm-6 col-12 ml-2 " style="line-height: 2;" align="center">
+            <div class="justify-content-between">
+              <div class="pr-1 " style="letter-spacing: 1px; color: #ada59a;">CONTENT </div>
+              <div>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;" />
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;" />
+              <i class="fas fa-square fa-fw" style="color: white;"/>
+              <i class="fas fa-square fa-fw" style="color: white;" />
+              <i class="fas fa-square fa-fw" style="color: white;"/>
+              </div>
+            </div>
+            <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+            <div class="justify-content-between">
+              <div class="pr-1 " style="letter-spacing: 1px; color: #ada59a;">CONTENT</div>
+              <div>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              <i class="fas fa-square fa-fw" style="color: white;"/>
+              <i class="fas fa-square fa-fw" style="color: white;"/>
+              <i class="fas fa-square fa-fw" style="color: white;"/>
+              <i class="fas fa-square fa-fw" style="color: white;"/>
+              </div>
+            </div>
+            <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+            <div class="justify-content-between">
+              <div class="pr-1 " style="letter-spacing: 1px; color: #ada59a;">CONTENT</div>
+              <div>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              <i class="fas fa-square fa-fw" style="color: white;"/>
+              </div>
+            </div>
+            <hr class="my-2 " style="background-color: #322B33; opacity: 0.5;">
+            <div class="justify-content-between">
+              <div class="pr-1 " style="letter-spacing: 1px; color:  #ada59a;">CONTENT</div>
+              <div>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              <i class="fas fa-square fa-fw" style="color: #89cf1b;"/>
+              </div>
+            </div>
+                  </div>
+                  
+                   <!--{ Playlist Card }-->
+   <div class="card col-12 col-sm-5 p-1 text-center  mx-1 pull-right border-1 " style="font-weight: 100;letter-spacing: 5px; text-shadow: 0 0 2px black; white-space: nowrap; overflow: hidden; height: 100%; background-color: #1C141D; border-color: #343A40; ">
+     <p>
+       <!--{ IMPORTANT! Strabi Credit }-->
+       <a href="https://toyhou.se/4701769.-f2u-in-profile-playlist">
+         <i class="far fa-music-alt" style="float: right; color: #04CAC1;"></i>
+       </a>
+     </p>
+     <div id="playlist" class="carousel slide" data-interval="900000">
+       <div class="carousel-inner">
+
+         <!--{ Song #1 }-->
+         <div class="carousel-item active">
+
+           <!--{ Title & Artist Input }-->
+           <!--{ Note: keep &nbsp; intact or it won't center properly, reduce font size if text overflows }-->
+           <p style="font-size: 100%">
+           <span style="font-weight: bold">&nbsp;4:00 AM</span><br>
+            taeko onuki</p>
+
+           <a class="carousel-control-prev" href="#playlist" role="button" data-slide="prev" style="position: static; display: inline;">
+             <i class="fa fa-step-backward"  style="color: white" ></i>
+           </a>
+           <span style="filter: drop-shadow(0 0 2px black)">
+
+             <!--{ YT Link Input }-->
+
+             <!--{ To Use:
+             
+             - Copy the video code, aka the last chunk of the url, https://www.youtube.com/watch?v=RIGHTHERE
+             - Paste after embed/ in the code                                    }-->
+
+             <iframe class="flex-fill" style="width:100%;height:25px;width:25px;clip-path: polygon(25% 20%, 25% 100%, 80% 60%);margin-bottom: -6px" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/_sOKkON_UnQ"></iframe>
+             
+
+           </span>
+           <a class="carousel-control-next" href="#playlist" role="button" data-slide="next" style="position: static; display: inline;">
+             <i class="fa fa-step-forward" style="color: white"></i>
+           </a>
+         </div>
+
+         <!--{ ✂  Start Copy Here} -->
+
+         <!--{ Song #2}-->
+         <div class="carousel-item">
+
+
+           <!--{ Title & Artist Input }-->
+           <!--{ Note: keep &nbsp; intact or it won't center properly, reduce font size if text overflows }-->
+           <p style="font-size: 100%">
+           <span style="font-weight: bold">&nbsp;the distance</span><br>
+            cake</p>
+
+           <a class="carousel-control-prev" href="#playlist" role="button" data-slide="prev" style="position: static; display: inline;">
+             <i class="fa fa-step-backward" style="color: white"></i>
+           </a>
+           <span style="filter: drop-shadow(0 0 2px black)">
+
+             <!--{ YT Link Input }-->
+
+             <!--{ To Use:
+             
+             - Copy the video code, aka the last chunk of the url
+               https://www.youtube.com/watch?v=dQw4w9WgXcQ would be dQw4w9WgXcQ
+             - Paste after embed/ in the code                                    }-->
+
+             <iframe class="flex-fill" style="width:100%;height:25px;width:25px;clip-path: polygon(25% 20%, 25% 100%, 80% 60%);margin-bottom: -6px" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/Yxthhkub89c"></iframe>
+
+           </span>
+           <a class="carousel-control-next" href="#playlist" role="button" data-slide="next" style="position: static; display: inline;">
+             <i class="fa fa-step-forward" style="color: white"></i>
+           </a>
+         </div>
+
+         <!--{ ✂  End Copy Here} -->
+         
+ <!--{ Song #3}-->
+         <div class="carousel-item">
+
+
+           <!--{ Title & Artist Input }-->
+           <!--{ Note: keep &nbsp; intact or it won't center properly, reduce font size if text overflows }-->
+           <p style="font-size: 100%">
+           <span style="font-weight: bold">&nbsp;crooked teeth</span><br>
+            death cab for cutie</p>
+
+           <a class="carousel-control-prev" href="#playlist" role="button" data-slide="prev" style="position: static; display: inline;">
+             <i class="fa fa-step-backward" style="color: white"></i>
+           </a>
+           <span style="filter: drop-shadow(0 0 2px black)">
+
+             <!--{ YT Link Input }-->
+
+             <!--{ To Use:
+             
+             - Copy the video code, aka the last chunk of the url
+               https://www.youtube.com/watch?v=dQw4w9WgXcQ would be dQw4w9WgXcQ
+             - Paste after embed/ in the code                                    }-->
+
+             <iframe class="flex-fill" style="width:100%;height:25px;width:25px;clip-path: polygon(25% 20%, 25% 100%, 80% 60%);margin-bottom: -6px" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/ar1_tEg4Nxs"></iframe>
+
+           </span>
+           <a class="carousel-control-next" href="#playlist" role="button" data-slide="next" style="position: static; display: inline;">
+             <i class="fa fa-step-forward" style="color: white"></i>
+           </a>
+         </div>
+         <!--{ Paste here for more songs }-->
+
+         <!--{ Do not paste below here }-->
+
+       </div>
+     </div>
+     <p><br/></p>
+
+     </div>
+  
+           
+ 
+                  <!---------------------- DESCRIPTION ------------------------------------------------->
+                  <div class="col-12 my-2" align="center"><hr style="background-color: #322B33; opacity: 0.5;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<hr style="background-color: #322B33; opacity: 0.5;">
+                  </div>
+ 
+                  <!---------------------- AESTHETIC ------------------------------------------------->
+        <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://i.pinimg.com/564x/ef/a6/41/efa6418b9228238bc0823a163f258763.jpg" style="height: 140px; width: 140px; object-fit: cover;  border-radius: 5px; "></div>
+        
+            <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://i.pinimg.com/564x/3a/11/13/3a111381203d755326d0fb01e985095e.jpg" style="height: 140px; width: 140px; object-fit: cover;  border-radius: 5px;"></div>
+            
+            <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://i.pinimg.com/564x/ec/3e/42/ec3e42b9e773da37f467e080bcdf0371.jpg" style="height: 140px; width: 140px; object-fit: cover;  border-radius: 5px;"></div>
+            
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://i.pinimg.com/564x/9c/45/b9/9c45b9ad29e4eccf61f30b2cae43f7ba.jpg" style="height: 140px; width: 140px; object-fit: cover; border-radius: 5px;"></div>
+               </div>
+            </div>
+ 
+         <!---------------------- SECTION TWO - ABOUT THE CHARACTER ------------------------------------------------->
+            <div class="tab-pane card-block" style="height:630px; padding-bottom:8px; overflow:auto;" id="TWO">
+               <h1 class="text-uppercase" style="letter-spacing:1px;">
+                ABOUT  <i class="fas fa-heart-square pull-right"></i> </h1>
+               <hr  style="background-color: #322B33; opacity: 0.5;">
+               <div class="row ml-2 mr-2 mb-1 justify-content-around">
+                 <div class="col-lg-6 col-xs-12 mt-1 mb-2">
+              <p style="color:  #EE0068;"><i class="fas fa-heart fa-lg "></i> ⦁ <span style="color: white;">content, content, content, content.</span></p>
+                  </div>
+                     <div class="col-lg-6 col-xs-12 mt-1 mb-2">
+              <p style="color:  #EE0068;"><i class="fas fa-times fa-lg"></i> ⦁ <span style="color: white;">content, content, content, content.</span></p>
+                  </div>
+               </div>
+                                      <hr style="background-color: #322B33; opacity: 0.5;">
+
+               <div class="row ml-2 mr-2 mb-1">
+                      <div class="col-lg-6 col-xs-12 mb-2" >
+                              <h1 class="text-center"><span style="color: #EE0068;"><i class="fas fa-comment-alt-smile">  ⦁  </i></span> personality </h1>
+                              <br/>
+                              <div class=" pr-2" style="overflow:auto; height: 300px; " align="center">
+                  <p>  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+                  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
+                  culpa qui officia deserunt mollit anim id est laborum.  </p></div>
+                  
+                  <hr style="background-color: #322B33; opacity: 0.5;">
+            
+                </div>
+
+
+                             <div class="col-lg-6 col-xs-12  mb-2" >
+          <h1 class="text-center"><span style="color: #EE0068;"><i class="fas fa-stars">  ⦁  </i></span> fun facts </h1>
+          <br/>
+            <div style="overflow: auto; height: 300px;">
+                     <p style="margin-left:20px;" >
+        
+        <i class="fas fa-star"></i> CONTENT
+                         <br/><br/>
+                         <i class="fas fa-star"></i> CONTENT
+                         <br/><br/>
+                      <i class="fas fa-star"></i> CONTENT
+                       <br/><br/>
+                       <i class="fas fa-star"></i> CONTENT
+                       <br/><br/>
+                   
+                       
+        </p></div>            
+       <hr style="background-color: #322B33; opacity: 0.5;">
+                   
+                 </div>
+               </div>
+
+
+            </div>  
+            <!---------------------- SECTION THREE - INVENTORY ------------------------------------------------->
+            <div class="tab-pane card-block" style="height:630px; padding-bottom:8px; overflow:auto;" id="THREE">
+               <h1 class="text-uppercase " style="letter-spacing:1px;">INVENTORY <i class="fas fa-tshirt pull-right" ></i></h1>
+               <hr>
+               <div id="carouselExampleIndicators" class="carousel slide" data-interval="900000">
+                 
+                 <ol class="carousel-indicators" >
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+ 
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      
+      <div class="row">
+       <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://cdn.shopify.com/s/files/1/0343/7684/3401/products/62930388_o1_1024x1024@2x.jpg?v=1590189774" style="height: 150px; width: 150px; object-fit: cover;  border-radius: 5px;"></div>
+       
+            <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://i5.walmartimages.com/asr/48cef1e5-2298-46e4-89a3-beda2f160e2c_1.7aa80e626ff8ecfb3064b1977248ba85.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff" style="height: 150px; width: 150px; object-fit: cover;  border-radius: 5px;"></div>
+            
+            <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://cdn-images.italist.com/image/upload/t_zoom_v3/825aa81c0f5878faad048220160f6db2.jpg" style="height: 150px; width: 150px; object-fit: cover;  border-radius: 5px;"></div>
+            
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b931279-6aef-4f0a-b71a-cf9de82ee4ad/deod00m-533f6e98-c235-4cc6-9c27-2e6095e1eb53.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJiOTMxMjc5LTZhZWYtNGYwYS1iNzFhLWNmOWRlODJlZTRhZFwvZGVvZDAwbS01MzNmNmU5OC1jMjM1LTRjYzYtOWMyNy0yZTYwOTVlMWViNTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pSL5YT5rDuwxpa1AoZ5Ab3NS3mtWuIPrWVKVU3t8b1M" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+                
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://cdn.shopify.com/s/files/1/2698/4646/products/pants_4_372x@3x.progressive.jpg?v=1623864442" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://images.squarespace-cdn.com/content/v1/538f866be4b0ab50f9d1ddb9/1564741908490-5YK3EVG8A54PBC3DG8IX/1.jpg?format=750w" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+               
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://cdn.shopify.com/s/files/1/0267/9232/9325/products/CV4611-100-1_1024x1024.jpg?v=1596229877" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+                
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://img.ltwebstatic.com/images3_pi/2020/08/14/1597371267ce12d6eaacad5d876fa3a57ccef2470c_thumbnail_600x.webp" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+               
+   <br/>
+    </div>
+    
+    </div>
+    <div class="carousel-item">
+          <div class="row">
+       <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://www.inderwear.com/118337-thickbox_default/rio-mesh-tank-top-black-tof-paris.jpg" style="height: 150px; width: 150px; object-fit: cover;  border-radius: 5px;"></div>
+       
+            <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://www.blessupvintage.com/wp-content/uploads/2019/09/holographic-flame-sunglasses-bless-up-vintage-1.jpg" style="height: 150px; width: 150px; object-fit: cover;  border-radius: 5px;"></div>
+            
+            <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://cdn.lookastic.com/burgundy-windbreaker/members-only-iconic-racer-jacket-lightweight-original-209103.jpg" style="height: 150px; width: 150px; object-fit: cover;  border-radius: 5px;"></div>
+            
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2b931279-6aef-4f0a-b71a-cf9de82ee4ad/deoirdh-78dd614b-52e4-4ca0-be17-c2c6a93ae32a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJiOTMxMjc5LTZhZWYtNGYwYS1iNzFhLWNmOWRlODJlZTRhZFwvZGVvaXJkaC03OGRkNjE0Yi01MmU0LTRjYTAtYmUxNy1jMmM2YTkzYWUzMmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iDvDO0-bcAthSvAqg5F1M1UVBOrLaZPC95QjQQaMSUc" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+                
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://ae01.alicdn.com/kf/H7520be85ae7d42d9a6eed282379a55faG.jpg" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://assets.adidas.com/images/w_600,f_auto,q_auto/121b118704194cf789a6ab6d016be0c0_9366/Superstar_Shoes_Pink_FY2743_01_standard.jpg" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+               
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://backend.central.co.th/media/catalog/product/e/3/e374a995ec2ab35eba3f6bb0594d646f6686c551_mkp0605229dummy_2.jpg" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+                
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://assets.fila.com/m/361685a5e55c567e/FILA_COM_XLarge-LW015998_684_01_e.jpg" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+               
+   <br/>
+    </div>
+    
+    
+    </div>
+    <div class="carousel-item">
+            <div class="row">
+       <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://cdn.shopify.com/s/files/1/0079/0495/2391/products/261029-1_800x.jpg?v=1583720712" style="height: 150px; width: 150px; object-fit: cover;  border-radius: 5px;"></div>
+       
+            <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://i.pinimg.com/originals/27/49/96/274996c38841a60ea94baf91bf030359.jpg" style="height: 150px; width: 150px; object-fit: cover;  border-radius: 5px;"></div>
+            
+            <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://www.inderwear.com/123590/slick-mesh-hoodie-harness-black-andrew-christian.jpg" style="height: 150px; width: 150px; object-fit: cover;  border-radius: 5px;"></div>
+            
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://cdn.shopify.com/s/files/1/1189/1930/products/apatico-holographic-belt-harness-iridescent-bondage-straps-waist-hologram-holo-iridescent-fetish-fashion-bondage-style-crop_1024x1024.jpg?v=1492818891" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+                
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://pictures.depop.com/b0/10593869/754801773_4d055f7d33ed4d669bd273326bf4c000/P0.jpg" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://media.karousell.com/media/photos/products/2020/7/5/zara_cylinder_sling_bag_1593950897_3b158d78_progressive.jpg" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+               
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://sc04.alicdn.com/kf/Hed5f05ddd3684b9fb77acf0c1fa4c788y.jpg" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+                
+                <div class="col-sm-3 col-6 mb-2" align="center"><img src="https://cdn.shopify.com/s/files/1/0034/4873/3785/products/O1CN011mhAqtyzEvohVbT__3944024985.jpg_800x800q90.jpg?v=1569341546" style="height: 150px; width: 150px; object-fit: cover; border-radius: 5px;"></div>
+               
+   <br/>
+    </div>
+      
+      
+    </div>
+  </div>
+  <a class="carousel-control-prev mt-2" href="#carouselExampleIndicators" role="button" data-slide="prev" style="top: 100%;  left: calc(42% - 20px)">
+    <i class="fas fa-angle-double-left fa-lg"  aria-hidden="true"  style="color: #4cb9ad;"></i>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next mt-2" href="#carouselExampleIndicators" role="button" data-slide="next" style="top: 100%; right: calc(42% - 20px);">
+    <i class="fas fa-angle-double-right fa-lg"  aria-hidden="true" style="color: #4cb9ad;"></i>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<br/>
+<br/>
+
+ <div class="row mb-1 mt-1 justify-content-center">
+   <div class="col-sm-6 mb-2 mt-2 ">
+   
+      <h1 class="text-center"> <i class="fas fa-comment-alt-edit"></i></h1>
+               <p style="line-height: 30px;" align="center">
+        
+        <i class="fas fa-star"></i> content
+                         <br/>
+                         <i class="fas fa-star"></i> content
+                         <br/>
+                      <i class="fas fa-star"></i> content
+                       <br/>
+                       <i class="fas fa-star"></i> content
+                       <br/>
+                       <i class="fas fa-star"></i> content
+                         <br/>
+                         <i class="fas fa-star"></i> content
+                         <br/>
+                      <i class="fas fa-star"></i> content
+                       <br/>
+                       <i class="fas fa-star"></i> content
+                       
+        </p>
+        
+   </div>
+   
+   <div class="col-sm-6 mb-2 mt-2 ">
+
+<h1 class="text-center"> <i class="fas fa-backpack pull-center"></i></h1>
+                       <div style="line-height: 30px;" align="center">
+                         
+                         content / content / content <br/>
+                         content / content / content <br/>
+                         content / content <br/> 
+                         content / content
+                         
+                       <br/><br/>
+                    
+<span>
+  <i class="fas fa-circle" style="color:#CCE2F0;font-size:32px;"></i>
+<i class="fas fa-circle" style="color:#5B84C2;font-size:32px;"></i>
+<i class="fas fa-circle" style="color:#455EA1;font-size:32px;"></i>
+<i class="fas fa-circle" style="color:#FF0072;font-size:32px;"></i>
+<i class="fas fa-circle" style="color:#F7854D;font-size:32px;"></i>
+<i class="fas fa-circle" style="color:#FDD336;font-size:32px;"></i>
+<br/>
+
+<span>
+  <i class="fas fa-circle" style="color:#fff;font-size:32px;"></i>
+  <i class="fas fa-circle" style="color:#555C66;font-size:32px;"></i>
+  <i class="fas fa-circle" style="color:#2B323C;font-size:32px;"></i>
+  <i class="fas fa-circle" style="color:#191C23;font-size:32px;"></i>
+  <i class="fas fa-circle" style="color:#000000;font-size:32px;"></i>
+  <i class="fas fa-circle" style="color:#00FF8F;font-size:32px;"></i>
+  </div>
+       
+      
+     
+   </div>
+   
+ </div>
+            
+            </div>
+            
+          
+ 
+            <!---------------------- SECTION FOUR - RELATIONSHIPS------------------------------------------------->
+                    <div class="tab-pane card-block" style="height:630px; padding-bottom:8px; overflow:auto;" id="FOUR">
+               <h1 class="text-uppercase" style="letter-spacing:1px;">
+                RELATIONSHIPS <i class="fas fa-heart-square pull-right"></i> </h1>
+               <hr  style="background-color: #322B33; opacity: 0.5;">
+
+               <div class="row ml-2 mr-2 mb-1">
+                                 
+                    
+               <div class="col-12 mt-4 mb-2">
+                                                    
+
+                     <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/9178327?1627713177" 
+                     class="float-sm-right ml-sm-2 d-block mx-auto mb-1 rounded-circle " style="max-height: 125px;">
+ 
+                     <h2> <i class="fas fa-heart fa-sm" /> <a href="https://toyhou.se/9178327.stele" style="color: #04CAC1;">NAME</a><span style="font-size: 15px">&nbsp;&nbsp;[ <i>partner</i> ]</span></h2>
+                    
+                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/></p>
+                  </div>
+                
+                     <div class="col-12 mt-4 mb-2">
+                                                    
+
+                     <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/9178327?1627713177" 
+                     class="float-sm-right ml-sm-2 d-block mx-auto mb-1 rounded-circle " style="max-height: 125px;">
+ 
+                     <h2> <i class="fas fa-heart fa-sm" /> <a href="https://toyhou.se/9178327.stele" style="color: #04CAC1;">NAME</a><span style="font-size: 15px">&nbsp;&nbsp;[ <i>partner</i> ]</span></h2>
+                    
+                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br/><br/></p>
+                  </div>
+                
+                     <div class="col-12 mt-4 mb-2">
+                                                    
+
+                     <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/9178327?1627713177" 
+                     class="float-sm-right ml-sm-2 d-block mx-auto mb-1 rounded-circle " style="max-height: 125px;">
+ 
+                     <h2> <i class="fas fa-heart fa-sm" /> <a href="https://toyhou.se/9178327.stele" style="color: #04CAC1;">NAME</a><span style="font-size: 15px">&nbsp;&nbsp;[ <i>partner</i> ]</span></h2>
+                    
+                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br/><br/></p>
+                  </div>
+                 
+               </div>
+
+
+            </div>  
+            <!---------------------- SECTION FIVE - STORY ------------------------------------------------->
+                     <div class="tab-pane card-block" style="height:610px; padding-bottom:8px; overflow:auto;" id="FIVE">
+               <h1 class="text-uppercase" style="letter-spacing:1px;">
+                 <i class="fas fa-book"></i> THE STORY SO FAR...</h1>
+               <hr>
+               <div style="font-size: .96em;">
+			       
+                <h4>Backstory</h4>
+ 
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare interdum massa, dignissim commodo ipsum dapibus et. Nullam venenatis nunc a tortor consequat, sed efficitur risus bibendum. Integer rhoncus cursus interdum. Duis tincidunt urna at elit mattis condimentum. Vivamus nec interdum tortor, eget fermentum diam. Nunc aliquam pulvinar quam vitae ullamcorper. Aliquam eu arcu at justo rutrum accumsan. Nullam eget felis sit amet eros convallis tincidunt dapibus non orci. Duis quis velit venenatis odio malesuada gravida non nec tellus. Nulla eget turpis quis nulla suscipit malesuada.</p>
+ <hr>
+ 
+               <h4>Current Whereabouts</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare interdum massa, dignissim commodo ipsum dapibus et. Nullam venenatis nunc a tortor consequat, sed efficitur risus bibendum. Integer rhoncus cursus interdum. Duis tincidunt urna at elit mattis condimentum. Vivamus nec interdum tortor, eget fermentum diam. Nunc aliquam pulvinar quam vitae ullamcorper. Aliquam eu arcu at justo rutrum accumsan. Nullam eget felis sit amet eros convallis tincidunt dapibus non orci. Duis quis velit venenatis odio malesuada gravida non nec tellus. Nulla eget turpis quis nulla suscipit malesuada.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare interdum massa, dignissim commodo ipsum dapibus et. Nullam venenatis nunc a tortor consequat, sed efficitur risus bibendum. Integer rhoncus cursus interdum. Duis tincidunt urna at elit mattis condimentum. Vivamus nec interdum tortor, eget fermentum diam. Nunc aliquam pulvinar quam vitae ullamcorper. Aliquam eu arcu at justo rutrum accumsan. Nullam eget felis sit amet eros convallis tincidunt dapibus non orci. Duis quis velit venenatis odio malesuada gravida non nec tellus. Nulla eget turpis quis nulla suscipit malesuada.</p>
+ 
+               </div>
+            </div>
+            <!---------------------- SECTION SIX - TRIVIA (SCRAPPED SECTION)  ------------------------------------------------->
+            
+             <div class="tab-pane card-block" style="height:610px; padding-bottom:8px; overflow:auto;" id="SIX">
+               <h1 class="text-uppercase" style="letter-spacing:1px;">
+                 <i class="fas fa-stars mr-1" /> FUN FACTS</h1>
+               <hr>
+               <div class="row ml-2 mr-2 mb-3 justify-content-around">
+                 <div class="card col-sm-5 col-12 mb-2 pt-2 pb-2 ml-1" style="display: block;">
+                    <p>
+                  <b><i class="fas fa-angle-double-right"></b> content
+               </p>
+ 
+               <p><b><i class="fas fa-angle-double-right"></b> content
+               </p>
+ 
+               <p> <b><i class="fas fa-angle-double-right"></b> content
+               </p>
+ 
+               <p> <b><i class="fas fa-angle-double-right"></b> content
+               </p>
+               
+               <p> <b><i class="fas fa-angle-double-right"></b> content
+               </p>
+               
+               <p> <b><i class="fas fa-angle-double-right"></b>content
+               </p>
+                   </div>
+                   <div class="card col-sm-5 col-12 mb-2 pt-2 pb-2 ml-1" style="display: block;">
+                     <p> <b><i class="fas fa-angle-double-right"></b> content </p>
+               
+               <p> <b><i class="fas fa-angle-double-right"></b> content </p>
+               
+               <p> <b><i class="fas fa-angle-double-right"></b> content </p>
+                
+               <p> <b><i class="fas fa-angle-double-right"></b> content </p>
+               
+               <p> <b><i class="fas fa-angle-double-right"></b> content </p>
+               
+               <p> <b><i class="fas fa-angle-double-right"></b> content </p>
+               
+                   </div></div>
+              
+ 
+               
+            </div>
+          
+         </div>
+      </div>
+   </div>
+</div>
+ 
+<br/>
